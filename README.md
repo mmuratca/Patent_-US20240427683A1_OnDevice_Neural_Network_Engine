@@ -66,6 +66,6 @@ This repository shares **publicly disclosed information only**. Proprietary impl
 For collaborations, licensing inquiries, or implementation discussions:
 
 **Murat Çakir**  
-[LinkedIn](https://www.linkedin.com/in/muratcakir) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/muratcakir) | [Email](mailto:muratca@gmail.com)
 
 ---
